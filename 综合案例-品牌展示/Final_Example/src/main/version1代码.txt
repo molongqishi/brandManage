@@ -1,0 +1,15 @@
+// addBrand
+/*then(function (resp) {
+                    if (resp.data == "success!") {
+                        // 添加成功
+                        // 1、关闭窗口
+                        _this.dialogVisible = false;
+                        // 2、重新查询
+                        _this.selectAll();
+                        // 3、新建提示框，弹出消息提示
+                        _this.$message({
+                            message: '添加成功！',
+                            type: 'success'
+                        });
+                    }
+                })*/

@@ -1,0 +1,11 @@
+web\BrandServlet.class
+proj\Brand.class
+tools\SqlSessionFactoryTools.class
+mapper\BrandMapper.class
+proj\PageBean.class
+web\old\SelectAllServlet.class
+web\old\AddServlet.class
+web\old\DeleteServlet.class
+service\BrandService.class
+web\BaseServlet.class
+service\impl\BrandServiceImpl.class

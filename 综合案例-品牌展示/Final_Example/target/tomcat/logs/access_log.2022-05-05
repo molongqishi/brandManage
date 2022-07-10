@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:13:01 +0800] "GET /Final_Example HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:13:01 +0800] "GET /Final_Example/ HTTP/1.1" 200 52 http-bio-8080-exec-3 832
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:13:02 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:13:11 +0800] "GET /Final_Example/selectAllServlet HTTP/1.1" 200 727 http-bio-8080-exec-5 1083
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:18:41 +0800] "GET /Final_Example/brand.html HTTP/1.1" 200 8844 http-bio-8080-exec-7 8
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:18:41 +0800] "GET /Final_Example/js/vue.js HTTP/1.1" 200 344009 http-bio-8080-exec-9 4
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:19:20 +0800] "GET /Final_Example/brand.html HTTP/1.1" 200 8843 http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:19:49 +0800] "GET /Final_Example/brand.html HTTP/1.1" 200 7984 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:24:41 +0800] "GET /Final_Example/brand.html HTTP/1.1" 200 7924 http-bio-8080-exec-5 5
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:24:42 +0800] "GET /Final_Example/selectAllServlet HTTP/1.1" 200 727 http-bio-8080-exec-5 5
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:47:29 +0800] "GET /Final_Example HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:47:30 +0800] "GET /Final_Example/ HTTP/1.1" 200 52 http-bio-8080-exec-3 81
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:47:35 +0800] "GET /Final_Example/brand.html HTTP/1.1" 200 9282 http-bio-8080-exec-4 7
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:47:37 +0800] "GET /Final_Example/selectAllServlet HTTP/1.1" 200 727 http-bio-8080-exec-5 941
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:47:51 +0800] "POST /Final_Example/addServlet HTTP/1.1" 200 8 http-bio-8080-exec-6 47
+0:0:0:0:0:0:0:1 - - [05/May/2022:21:47:51 +0800] "GET /Final_Example/selectAllServlet HTTP/1.1" 200 854 http-bio-8080-exec-7 5
